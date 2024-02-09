@@ -1,0 +1,19 @@
+Thread Name:Thread Group for Skybot 1-388
+Sample Start:2024-01-15 00:29:27 EET
+Load time:56972
+Connect Time:56972
+Latency:0
+Size in bytes:2886
+Sent bytes:0
+Headers size in bytes:0
+Body size in bytes:2886
+Sample Count:1
+Error Count:1
+Data type ("text"|"bin"|""):text
+Response code:Non HTTP response code: javax.net.ssl.SSLHandshakeException
+Response message:Non HTTP response message: Remote host terminated the handshake
+
+
+HTTPSampleResult fields:
+ContentType: 
+DataEncoding: null
